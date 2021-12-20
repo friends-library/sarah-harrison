@@ -269,6 +269,7 @@ Samuel Smith.
 
 --
 
+[.offset]
 +++[+++To which Sarah Harrison wrote the following reply:]
 
 [.embedded-content-document.letter]
