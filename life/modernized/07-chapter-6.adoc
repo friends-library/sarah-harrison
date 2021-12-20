@@ -1,9 +1,12 @@
 == Chapter VI
 
-From Samuel Emlen.
+[.letter-heading]
+From Samuel Emlen
 
+[.signed-section-context-open]
 Warrington, 12th of 4th month, 1797.
 
+[.salutation]
 My dear friend, Sarah Harrison,--
 
 You continue to be very much the companion of my mind,
@@ -85,13 +88,17 @@ I am now at the house of our kind friends John Bludwick and wife,
 who unite in kind love to you and Sarah Birkbeck.
 Direct soon to the care of R. Benson, Liverpool, for your affectionate friend,
 
+[.signed-section-signature]
 Samuel Emlen
 
+[.letter-heading]
 From Margaret Allen
 
+[.signed-section-context-open]
 Hoe-mill, Essex, 8th of 6th mo.
 1798.
 
+[.salutation]
 Beloved friend, Sarah Harrison,--
 
 I have frequently regretted the little opportunity
@@ -145,7 +152,11 @@ of the love of God in Christ Jesus,--of which happy number is my beloved friend;
 and that she may be preserved so through time,
 is the present breathing of her that can truly subscribe herself your affectionate friend,
 
+[.signed-section-signature]
 Margaret Allen.
+
+[.postscript]
+====
 
 P+++.+++ S. I should, if my life is lengthened, be truly glad to have a few lines from you;
 I don`'t care how they are written, if I can but read them.
@@ -159,17 +170,23 @@ This little gleam of hope is at times graciously lent,
 and is to me more than I at one time ever expected.
 Once more farewell, dearly beloved friend,
 
+====
+
+[.signed-section-signature]
 Margaret Allen
 
+[.letter-heading]
 From George Dillwyn
 
+[.signed-section-context-open]
 London, 9th mo.
 28th, 1798.
 
+[.salutation]
 My dear friend,--
 
 I have now before me your letter begun 8th mo.
-25th, at Minden, and ended the 3rd instant at Pyrmont.
+25th, at Minden, and ended the 3rd of this month at Pyrmont.
 It came to hand the 27th,
 and brought my mind into a deep degree of sympathy with you and
 your companions--deeper perhaps than I could have felt,
@@ -213,7 +230,7 @@ which have been told us of the Lord,`" in his time.
 
 It will, I doubt not,
 afford you and your dear companions a degree of comfort to be informed,
-that at our late Quarterly meeting (the 25th instant) the spirit
+that at our late Quarterly meeting (the 25th of this month) the spirit
 of supplication was poured forth on the assembly in your behalf;
 and that the persuasion of its availing acceptance with him who inspired it,
 remains with lively impression on my mind while I am writing!
@@ -281,13 +298,17 @@ the troubles which beset us in this world of vicissitude!
 In much affection to you all, (in which my Sarah Dillwyn joins) I remain,
 your friend and brother,
 
+[.signed-section-signature]
 George Dillwyn.
 
-From Rebecca Jones.
+[.letter-heading]
+From Rebecca Jones
 
+[.signed-section-context-open]
 Edgley Farm, 10th mo.
 23rd, 1798.
 
+[.salutation]
 My endeared sister, Sarah Harrison,--
 
 Your beloved husband having imparted to me the contents of your letter,
@@ -369,13 +390,17 @@ and, if consistent with his blessed will,
 bring you back in safety to your beloved relations and friends,
 is the fervent desire of your exercised and tribulated sister,
 
+[.signed-section-signature]
 Rebecca Jones.
 
-From Deborah Darby.
+[.letter-heading]
+From Deborah Darby
 
+[.signed-section-context-open]
 Colebrookdale, 1st mo.
 28th, 1799.
 
+[.salutation]
 Beloved friend, Sarah Harrison,--
 
 Although I feel myself poor, and stripped,
@@ -430,13 +455,17 @@ who has made you a blessing to many.
 Accept the united affectionate love of all my connections here,
 and believe me to remain your sincere friend,
 
+[.signed-section-signature]
 Deborah Darby.
 
-From Mary Naftel.
+[.letter-heading]
+From Mary Naftel
 
+[.signed-section-context-open]
 Guernsey, 22nd of 5th mo.
 1799.
 
+[.salutation]
 My beloved friend,--
 
 An opportunity presenting for conveying a few lines,
@@ -509,14 +538,20 @@ in order to wean us from all outward dependance.
 With endeared love, in which my husband joins, I conclude,
 and am your truly affectionate friend,
 
+[.signed-section-signature]
 Mary Naftel.
 
-From Martha Routh.
+[.letter-heading]
+From Martha Routh
 
+[.signed-section-context-open]
 Manchester, 8th mo.
 11th, 1806.
 
-My dear friend,--Be assured whether I speak or keep silence,
+[.salutation]
+My dear friend,--
+
+Be assured whether I speak or keep silence,
 you are often near in remembrance in the fellowship of suffering,
 when "`deep calls unto deep,`" and all the billows pass over us;
 yet under any of these dispensations, let our prayers still be to the God of our lives,
@@ -578,14 +613,20 @@ whom I love in the truth; likewise your husband, with any others in your freedom
 as I have not room to mention many more, must not forget dear Rebecca Jones,
 Thomas Scattergood, and others of our fellow-labourers.
 
+[.signed-section-signature]
 Martha Routh.
 
-From the Same.
+[.letter-heading]
+From the Same
 
+[.signed-section-context-open]
 Manchester, 7th mo.
 2nd, 1810.
 
-My dear friend,--I have long desired I might not outlive the season
+[.salutation]
+My dear friend,--
+
+I have long desired I might not outlive the season
 when I might be capable of feeling a sympathizing mind;
 and I now believe that prayer will be granted to me while I have a being here.
 Under this impression, my spirit has often visited you, since our lately deceased friend,
@@ -659,14 +700,20 @@ Please to present me in near affection to your husband, nephew and nieces,
 with any other friends in your freedom, and accept for yourself a large portion;
 in all which my husband unites with your sincerely affectionate friend,
 
+[.signed-section-signature]
 Martha Routh.
 
-From Thomas Scattergood.
+[.letter-heading]
+From Thomas Scattergood
 
+[.signed-section-context-open]
 New York, 6th mo.
 11th, 1811.
 
-Dear Sarah Harrison,--Having received the enclosed
+[.salutation]
+Dear Sarah Harrison,--
+
+Having received the enclosed
 in a valuable letter from Elizabeth Ussher of Ireland,
 I thought it afforded an opportunity to write a few lines and enclose it to you.
 I felt the more induced to make the attempt,
@@ -707,4 +754,5 @@ Thus desires, thus prays for you, my poor, dear,
 tribulated friends (hoping you may yet behold with your eyes days of greater calm,
 peace and comfort) your affectionate friend,
 
+[.signed-section-signature]
 Thomas Scattergood.

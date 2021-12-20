@@ -1,6 +1,7 @@
 == Chapter V
 
-=== Letters to Sarah Harrison.
+[.chapter-subtitle--blurb]
+Letters to Sarah Harrison
 
 +++[+++The following Letter from Joshua Sharples, written while attending Yearly Meeting,
 manifests the sympathetic feelings of his mind,
@@ -8,9 +9,11 @@ and conveys some encouraging exhortations that may be useful to others.
 His testimony concerning his deceased wife Edith, is also worthy of preservation.
 It might be well if we had a more minute biographical account of that excellent woman.]
 
+[.signed-section-context-open]
 Philadelphia, 27th of 9th mo.
 1787.
 
+[.salutation]
 Dear friend,--
 
 You have obtained a place in my mind, at times,
@@ -56,6 +59,7 @@ yet I feel them near for the love she bore for them.
 My dear love to Norris Jones and Lydia Hoskins.
 In affectionate nearness, I conclude, and remain your sympathizing friend,
 
+[.signed-section-signature]
 Joshua Sharples.
 
 +++[+++Robert Pleasants, the writer of the ensuing letter,
@@ -64,6 +68,7 @@ It may excite the feeling of tenderness in some who are
 surrounded with the enjoyments and privileges of society,
 very different from those of this Friend, who often went to meeting, and sat alone.]
 
+[.signed-section-context-open]
 Curies, in Virginia, 11th mo.
 28th, 1789.
 
@@ -101,6 +106,7 @@ something among the methodist and baptist societies,
 between whom there appears to be a spirit of emulation who shall make the most proselytes.
 I remain your affectionate friend,
 
+[.signed-section-signature]
 Robert Pleasants
 
 +++[+++Sarah Williams, daughter of John Dickinson, was married to Charles Williams,
@@ -113,10 +119,13 @@ To those who were acquainted with her, the annexed letter will be an acceptable 
 and to other young people it may be instructive and edifying.
 Sarah Harrison called her an adopted daughter.]
 
-Letter from Sarah Williams to Sarah Harrison.
+[.letter-heading]
+Letter from Sarah Williams to Sarah Harrison
 
+[.signed-section-context-open]
 Philadelphia, 19th of 4th month, 1788.
 
+[.salutation]
 My dear mother,--
 
 Being kindly informed by your dear husband of an
@@ -163,13 +172,17 @@ Excuse my disclosure of such sentiments to you; as it is as I have been accustom
 Should I be permitted to see you again, I shall have more to unfold.
 Farewell.
 
+[.signed-section-signature]
 Sarah Williams
 
-From Lydia Hoskins, Prior to Her Embarking for Europe.
+[.letter-heading]
+From Lydia Hoskins, Prior to Her Embarking for Europe
 
+[.signed-section-context-open]
 Burlington, 3rd mo.
 9th, 1792.
 
+[.salutation]
 Dearly beloved friend,--
 
 I often think of you,
@@ -207,13 +220,17 @@ My spirit is clothed with that love and sympathy
 toward you which many waters cannot quench,
 nor floods divide; in which I conclude, and remain your affectionate friend,
 
+[.signed-section-signature]
 Lydia Hoskins.
 
-From Jane Snowden.
+[.letter-heading]
+From Jane Snowden
 
+[.signed-section-context-open]
 Philadelphia, 1st mo.
 26th, 1792.
 
+[.salutation]
 Dear Aunt,--
 
 While thinking of my own poverty,
@@ -242,13 +259,17 @@ for verily unto us belongs nothing but blushing and confusion of face.
 With sincere desires for your welfare every way, my spirit affectionately salutes you,
 and bids you farewell.
 
+[.signed-section-signature]
 Jane Snowden.
 
+[.letter-heading]
 From Owen Biddle
 
+[.signed-section-context-open]
 Philadelphia, 5th mo.
 21st, 1793.
 
+[.salutation]
 My dear friend and much esteemed sister,--
 
 I feel myself a poor creature,
@@ -365,13 +386,17 @@ and large collections were made for the sufferers by which they were in part rel
 I am, dear friend, with feelings of pure friendship and esteem, your poor,
 unworthy brother,
 
+[.signed-section-signature]
 Owen Biddle
 
-Note from John Pemberton.
+[.letter-heading]
+Note from John Pemberton
 
+[.signed-section-context-open]
 Philadelphia, 5th mo.
 13th, 1793.
 
+[.salutation]
 Beloved friend,--
 
 I often think of you, and desire your support every way,
@@ -387,13 +412,17 @@ we need to be often emptied and washed, that it may run pure.
 I am a poor, tried creature; but I labour to possess my soul in patience;
 and am your affectionate friend,
 
+[.signed-section-signature]
 John Pemberton.
 
-From George Churchman.
+[.letter-heading]
+From George Churchman
 
+[.signed-section-context-open]
 East Nottingham, 5th mo.
 22nd, 1793.
 
+[.salutation]
 Dear friend,--
 
 Although I often feel myself as poor as a beggar,
@@ -442,13 +471,17 @@ neither is the gracious ear of lovingkindness and mercy grown heavy;
 for he surely hears and helps his dependant children,
 granting them a hiding place as in the hollow of his hand.
 
+[.signed-section-signature]
 George Churchman.
 
+[.letter-heading]
 From Sarah Newlin
 
+[.signed-section-context-open]
 Concord, 6th mo.
 2nd, 1793.
 
+[.salutation]
 Endeared friend,--
 
 In a degree of that love which neither the foaming billows nor distant lands divide,
@@ -501,10 +534,13 @@ as it were, stones of memorial, wherein the living in Israel may rejoice.
 May He who has laid the foundation, also lay the top-stone,
 finishing his work in you to his praise who is everlastingly worthy forever and forevermore.--Amen.
 
+[.signed-section-signature]
 Sarah Newlin.
 
+[.letter-heading]
 From Elizabeth Foulke
 
+[.signed-section-context-open]
 Philadelphia, 11M mo.
 29M, 1793.
 
@@ -551,15 +587,20 @@ And now there are so many vacancies, through the removal of so many worthies,
 that unless it pleases Him who has thus seen fit to cut short their work,
 to raise up others, the burden must fall heavy on the surviving few.
 
+[.signed-section-closing]
 I remain your unfeigned friend,
 
+[.signed-section-signature]
 Elizabeth Foulke
 
+[.letter-heading]
 From William Savery
 
+[.signed-section-context-open]
 Philadelphia, 3rd mo.
 8th, 1794.
 
+[.salutation]
 Dear Sarah,
 
 After long thinking of it,
@@ -638,13 +679,17 @@ she appears to have made a narrow escape from the grave, in mercy to us,
 for she continues to be a comfort to many.--With much affection,
 I remain your weak brother,
 
+[.signed-section-signature]
 William Savery
 
+[.letter-heading]
 From John Pemberton
 
+[.signed-section-context-open]
 Pyrmont, in Germany, 9th mo.
 21th, 1794.
 
+[.salutation]
 Beloved friend, Sarah Harrison,--
 
 It is pleasant and comfortable, when distant friends are enabled to commune in spirit,
@@ -714,13 +759,17 @@ I expect you know that Alexander Wilson is with me; he is well,
 and labouring to stand approved in the Divine sight;
 he joins in near affection and sympathy with your loving friend,
 
+[.signed-section-signature]
 John Pemberton
 
+[.letter-heading]
 From James Pemberton
 
+[.signed-section-context-open]
 Philadelphia, 12th mo.
 14th, 1795.
 
+[.salutation]
 Dear friend,--
 
 Think not because of my long silence, that I have been unmindful of you,
@@ -806,4 +855,5 @@ and your fellow-labourers in the gospel from America,
 as you may have opportunity.
 I am your affectionate friend,
 
+[.signed-section-signature]
 James Pemberton.

@@ -1,6 +1,7 @@
 == Chapter IV
 
-=== Visit to the Continent.
+[.chapter-subtitle--blurb]
+Visit to the Continent
 
 +++[+++Sarah Harrison had now been about six years absent from her friends at home,
 on this visit to England, etc. and it was natural to suppose that Friends,
@@ -24,9 +25,14 @@ though very much in the cross to her natural inclination,
 it may in some measure explain the reasons of her long absence
 in this very extensive and interesting religious concern.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 London, 6th mo.
 20th, 1798.
 
+[.salutation]
 My Beloved Husband,--
 
 In my last, dated at Liverpool,
@@ -124,7 +130,10 @@ that I rejoice in the expectation of their company.
 
 With the salutation of love to you and the children, I remain your affectionate
 
+[.signed-section-signature]
 Sarah Harrison.
+
+--
 
 7th mo.
 20th. I can say by blessed experience that the Lord is God, and changes not;
@@ -337,8 +346,7 @@ With a suspicion of this kind, and to avoid the possibility of misconstruction,
 we restrained ourselves from much, even innocent conversation,
 and probably disappointed them.
 One of our guards had been a priest, and was a sensible man.
-We lent them our books, such as the [.book-title]#Apology#,
-[.book-title]#No Cross No Crown,# [.book-title]#Summary,#
+We lent them our books, such as the [.book-title]#Apology#, [.book-title]#No Cross No Crown,# [.book-title]#Summary,#
 etc. which were read with much attention,
 and the quondam priest and another of them yielded to the truths they contained,
 and were tender.
@@ -473,6 +481,9 @@ who have felt for me and tenderly administered to my comfort and encouragement.
 In about five weeks, I was so far recovered as to be taken to Needham,
 where I was tenderly nursed by my beloved friend, Mary Alexander.
 
+[.small-break]
+'''
+
 +++[+++From Needham, Sarah Harrison wrote home as follows: "`1st mo.
 26th, 1799.
 If life and health permit,
@@ -506,6 +517,10 @@ so it shows that her confidence was reposed in that Arm of power which
 sustains the dedicated mind under the changes and vicissitudes of time,
 and furnishes the hope of a blessed immortality.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, 5th mo.
 1811.
 
@@ -594,7 +609,10 @@ Please to give my love to all those to whom you may think it will be acceptable:
 if I was to begin to name, I should not know where to stop.
 In love to you, your dear wife and children, I remain your friend,
 
+[.signed-section-signature]
 Sarah Harrison.
+
+--
 
 [.asterism]
 '''
@@ -609,10 +627,16 @@ Since most of the foregoing account of the life and travels of Sarah Harrison wa
 we have been furnished with the following, copied from the record in the family bible,
 in the hand writing of Thomas Harrison:
 
+[.embedded-content-document]
+--
+
 On first-day, about 4 o`'clock in the afternoon, 12th mo.
 29th, 1812, my beloved wife Sarah Harrison departed this life, in her 76th year of age;
 and on the 1st day of 1st month was interred in Friends`' burying ground,
 at Mulberry street, attended by a large number of Friends.
 Having lived with her in great unity forty-eight years and about six months.
 
-(Signed) Thomas Harrison.
+[.signed-section-signature]
+Thomas Harrison.
+
+--
