@@ -1,6 +1,7 @@
 == Chapter III
 
-=== Journey to Europe
+[.chapter-subtitle--blurb]
+Journey to Europe
 
 I left Philadelphia the 15th of 7th month, 1792,
 and landed at Liverpool the 16th of 8th month.
@@ -410,16 +411,23 @@ to whom the gospel was preached in the ability received.
 From there we went again to Douglass, and being weary rested on third-day.
 The next day, had a farewell meeting with the inhabitants of the town,
 and prepared for leaving the island, which we did on sixth-day,
-and landed at Whitehaven in the eyening.
+and landed at Whitehaven in the evening.
 
 The following letter from the governor of the Isle of Man, to Richard Reynolds,
 written about the time we left the island, is thought worthy of preservation,
 as it has reference to this visit.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Castle Rushen, 22nd Sept.
 1795.
 
-Dear sir,--I was yesterday favoured with your obliging letter of the 19th of this month,
+[.salutation]
+Dear sir,--
+
+I was yesterday favoured with your obliging letter of the 19th of this month,
 and I am only sorry you should have thought any thanks necessary,
 for any little civility I had been able to show you and the rest of your worthy company.
 
@@ -456,7 +464,10 @@ dear sir--and that the good God and Father of us all who faithfully endeavour to
 and fear, and serve him, may be ever the guardian and conductor of you and your friends,
 is most sincerely the prayer of your and their well-wisher and friend,
 
+[.signed-section-signature]
 Alexander Shaw.
+
+--
 
 25th of 9th month, Robert Benson, Isaac Hadwin and Ann Crowly left us,
 and we stayed over first-day at Whitehaven.
@@ -500,16 +511,24 @@ the _grace_ would be more magnified, and the _creature_ less gratified,
 both in visitors and visited.
 And Oh! that I may rightly mind my own proper business.
 
-During the winter, her son John arrived in Dublin,
+[.small-break]
+'''
+
++++[+++During the winter, her son John arrived in Dublin,
 on his way to attend chemical lectures in London,
 for improvement in his business as a druggist, etc.--They met about the 1st of 3rd month,
 after an absence of near four years, and it was to them both an affecting meeting.
 The allusion to her son in the following extract of a letter to her husband,
-relates to his acquiring a further practical knowledge of chemistry, etc.
+relates to his acquiring a further practical knowledge of chemistry, etc.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 London, 6th mo.
 2nd, 1796.
 
+[.salutation]
 My Dearly Beloved,--
 
 In the remembrance of that saying of the holy apostle, I take up my pen to salute you,
@@ -554,9 +573,13 @@ in case I should see my way home before another Yearly Meeting; which was compli
 and much was said to encourage me to faithfulness; which I esteem a singular favour,
 and it is cause of thankfulness that way has been made for me in the minds of Friends.
 
+[.signed-section-closing]
 I remain your affectionate wife,
 
+[.signed-section-signature]
 Sarah Harrison.
+
+--
 
 8th mo.
 8th. I have had between twenty and thirty meetings in London and its neighbourhood,
@@ -672,10 +695,19 @@ If you will give me bread to eat, and raiment to put on,--be with me in the way 
 and bring me back to my father`'s house, or to my native city, you shall be my God,
 and I will follow you wherever you may see fit to lead me.
 
-After attending the Yearly Meeting in London, she went to Liverpool,
-where she wrote to her husband as follows:
+[.small-break]
+'''
 
-My dear husband,--I once more take my pen to address you from this distant shore,
++++[+++After attending the Yearly Meeting in London, she went to Liverpool,
+where she wrote to her husband as follows:]
+
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+My dear husband,--
+
+I once more take my pen to address you from this distant shore,
 very contrary to my inclination or expectation when I wrote you last.
 For at that time, as well as from the time we left London,
 till we were within two days journey of this place,
@@ -746,7 +778,10 @@ In that love which is stronger than death, my spirit salutes you,
 and can bid you farewell, with heartfelt desires that the God of all grace,
 mercy and peace may be with you, and comfort your mind under this fresh trial.
 
+[.signed-section-signature]
 Sarah Harrison.
+
+--
 
 On our way to Scotland, we again met with my much loved friend Sarah Talbot,
 and her companion, which was cause of joy; more especially as our prospects were similar,

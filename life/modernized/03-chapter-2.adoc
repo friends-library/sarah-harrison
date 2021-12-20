@@ -1,6 +1,7 @@
 == Chapter II
 
-=== Sarah Harrison`'s Account of a Family Visit at Indian Spring, Baltimore, Gunpowder, Etc.
+[.chapter-subtitle--blurb]
+Sarah Harrison`'s Account of a Family Visit at Indian Spring, Baltimore, Gunpowder, etc.
 
 6th month 7th, 1789.
 At Baltimore, attended the select meeting yesterday,
@@ -44,7 +45,11 @@ Commenced visiting families at Baltimore, but the chariot wheels seemed to run h
 Felt myself very poor and weak, so as at times to be almost ready to desert the cause,
 lest I should bring reproach on the Truth.
 
+[.offset]
 Wrote home as follows:
+
+[.embedded-content-document.letter]
+--
 
 I think much about my dear children, desiring they may be preserved from evil,
 and kept out of the streets as much as possible,
@@ -97,6 +102,8 @@ for I see the time is coming when we shall need strength to say to our offspring
 follow us as we have followed Christ;
 and there is no way to obtain it but by being diligent in business, fervent in spirit,
 serving the Lord.
+
+--
 
 After a beginning made in the family visit,
 the way closed up so that we could not proceed.
@@ -160,6 +167,9 @@ Some of those visited have been disowned for fifteen or twenty years;
 and it is marvellous to see the openness and tenderness among some of these;
 so that we feel amply rewarded for having given up to visit them.
 
+[.small-break]
+'''
+
 +++[+++In the early part of the 9th month, while engaged in the family visit,
 her son Thomas was taken with a fever and died.
 On this occasion a messenger was sent to inform her of this afflictive event.
@@ -170,6 +180,9 @@ on behalf of her husband and herself,
 that they might be preserved in a state of perfect resignation to the Divine will,
 so as to say with Job,--'`The Lord gave and the Lord has taken away:
 blessed be the name of the Lord.`'`"]
+
+[.small-break]
+'''
 
 9th mo.
 22nd. I have been supported under this close trial that
@@ -191,11 +204,19 @@ a friend`'s house near Little Falls meetinghouse.
 From there proceeded to visit the families of that meeting,
 also attended the monthly meeting at Gunpowder, and returned home with peace of mind.
 
-+++[+++The following Letter was received from Samuel Smith,
+[.small-break]
+'''
+
++++[+++The following letter was received from Samuel Smith,
 written while he was on a religious visit in Europe.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Spring Mount, Near Cork, 9th mo., 1789.
 
+[.salutation]
 Dear friend, Sarah Harrison,--
 
 Having taken up a resting quarter for a few days
@@ -243,10 +264,18 @@ and not intended to be smothered in the lap of diffidence or false fear.
 With dear love to yourself and husband, and any other in your freedom,
 I remain your sincere friend,
 
+[.signed-section-signature]
 Samuel Smith.
 
+--
+
+[.offset]
 +++[+++To which Sarah Harrison wrote the following reply:]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear friend, Samuel Smith,--
 
 My will is good enough to write you a long letter,
@@ -286,8 +315,7 @@ had like to have shaken me off the foundation;
 but at present I feel much better settled in calmness.
 May the praise be ascribed to Him to whom it belongs, now and forever.
 
-[.asterism]
-'''
+--
 
 On the 8th of 11th month, 1790, I joined our beloved friends,
 Mary Ridgway and Jane Watson, in their religious visit to some parts of Maryland;
@@ -306,12 +334,19 @@ We have had many baptizing times together,
 especially under the ministry of these dear women, who have been wonderfully favoured,
 and had even to bring to light the hidden things of Esau, to the admiration of many.
 
+[.small-break]
+'''
+
 +++[+++The following extract of a letter to Sarah Harrison, from Jane Watson of Ireland,
 now about closing a visit to this land,
 and expecting to embark with Sarsh Harrison for Europe,
 has reference to some of the trials attendant on such religious concerns,
 and manifests the unity and sympathy of the writer.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 4th of 5th month, 1792.
 
 The restoration of your health,
@@ -348,4 +383,7 @@ so that the blessing of heaven was on them.
 I hope you will not be discouraged or impatient:
 for you may be assured we will not make any unnecessary delay.
 
+[.signed-section-signature]
 Jane Watson.
+
+--
